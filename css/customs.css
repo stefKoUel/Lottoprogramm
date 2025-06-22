@@ -1,0 +1,65 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/* pagination */
+ul.pagination{font-size:12px;text-align:center;color:#fff;}
+ul.pagination li{display:inline;padding:0 3px;}
+ul.pagination li.dot{color:#065295;}
+ul.pagination a{color:#065295;display:inline-block;padding:0;margin:0;text-decoration:none;background:none;}
+ul.pagination a:hover,ul.pagination a.current{color:#00baf3;;}
+
+
+
+.rahmen_rot{
+	border:solid 1px red;
+}
+
+.rahmen_green{
+	border:solid 1px green ;
+}
+
+
+.jackpotgeknackt{
+margin-top: 0px;
+padding-top: 0px;
+margin-bottom: -60px;
+height: 100px;
+background-image: url('/img/geknackt.png');
+background-repeat: no-repeat  ;
+background-position: center ;
+
+}
+
+
+
+.jackpotwaechst{
+margin-top: 0px;
+padding-top: 0px;
+margin-bottom: -20px;
+height: 70px;
+background-image: url('/img/waechst.jpg');
+background-repeat: no-repeat  ;
+background-position: center;
+}
+
+
+/*
+     FILE ARCHIVED ON 18:43:14 Dec 19, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:47:55 Dec 29, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 187.601
+  exclusion.robots: 0.296
+  exclusion.robots.policy: 0.284
+  RedisCDXSource: 91.117
+  esindex: 0.009
+  LoadShardBlock: 77.187 (3)
+  PetaboxLoader3.datanode: 68.874 (4)
+  CDXLines.iter: 16.331 (3)
+  load_resource: 65.722
+  PetaboxLoader3.resolve: 53.051
+*/
